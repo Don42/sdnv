@@ -2,8 +2,8 @@ from setuptools import setup
 
 setup(
     name='sdnv',
-    version='0.1.0a1',
-    description='Module to provide dhcp features',
+    version='0.1.0',
+    description='Module to provide encoding/decoding of RFC6256 SDNV',
     long_description=open('README.rst').read(),
     author='Marco \'don\' Kaulea',
     author_email='donmarco42@gmail.com',
