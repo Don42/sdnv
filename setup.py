@@ -9,8 +9,9 @@ setup(
     author_email='donmarco42@gmail.com',
     url='https://github.com/Don42/sdnv',
     packages=['sdnv'],
+    license='Apache 2.0',
     classifiers=[
-        'Development Status :: 1 - Pre-Alpha',
+        'Development Status :: 3 - Alpha',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.5',
