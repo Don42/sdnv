@@ -6,7 +6,7 @@ setup(
     description='Module to provide encoding/decoding of RFC6256 SDNV',
     long_description=open('README.rst').read(),
     author='Marco \'don\' Kaulea',
-    author_email='donmarco42@gmail.com',
+    author_email='don@0xbeef.org',
     url='https://github.com/Don42/sdnv',
     packages=['sdnv'],
     license='Apache 2.0',
